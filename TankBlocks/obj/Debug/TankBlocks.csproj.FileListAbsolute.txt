@@ -1,0 +1,10 @@
+C:\files\Progamação\C#\Repositórios\TankBlocks\TankBlocks\bin\Debug\TankBlocks.exe.config
+C:\files\Progamação\C#\Repositórios\TankBlocks\TankBlocks\bin\Debug\TankBlocks.exe
+C:\files\Progamação\C#\Repositórios\TankBlocks\TankBlocks\bin\Debug\TankBlocks.pdb
+C:\files\Progamação\C#\Repositórios\TankBlocks\TankBlocks\obj\Debug\TankBlocks.csprojAssemblyReference.cache
+C:\files\Progamação\C#\Repositórios\TankBlocks\TankBlocks\obj\Debug\TankBlocks.Form1.resources
+C:\files\Progamação\C#\Repositórios\TankBlocks\TankBlocks\obj\Debug\TankBlocks.Properties.Resources.resources
+C:\files\Progamação\C#\Repositórios\TankBlocks\TankBlocks\obj\Debug\TankBlocks.csproj.GenerateResource.cache
+C:\files\Progamação\C#\Repositórios\TankBlocks\TankBlocks\obj\Debug\TankBlocks.csproj.CoreCompileInputs.cache
+C:\files\Progamação\C#\Repositórios\TankBlocks\TankBlocks\obj\Debug\TankBlocks.exe
+C:\files\Progamação\C#\Repositórios\TankBlocks\TankBlocks\obj\Debug\TankBlocks.pdb
