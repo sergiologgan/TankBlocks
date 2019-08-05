@@ -11,13 +11,9 @@ namespace TankBlocks.org.entity
     public class Tank : Vehicle
     {
         [NonSerialized]
-        private System.Windows.Forms.Timer timer;
         private Size size;
         private int velocity, incY, incX;
         private Rectangle[,] visual, visualClone;
-
-        public delegate void OnShoot(Tank tank);
-        public event OnShoot Shoot;
 
         public Direction CurrentDirection { get; private set; }
         public Direction LastDirection { get; private set; }
