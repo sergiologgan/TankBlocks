@@ -24,9 +24,10 @@ namespace TankBlocks
             tank.Color = Color.Black;
 
             this.timer = new Timer();
-            this.timer.Interval = 2;
+            this.timer.Interval = 1;
             this.timer.Tick += Timer_Tick;
 
+            this.DoubleBuffered = true;
         }
 
         
