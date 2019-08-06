@@ -20,7 +20,7 @@ namespace TankBlocks
         {
             InitializeComponent();
 
-            this.tank = new Tank();
+            this.tank = new Tank(this.ClientRectangle);
             tank.Color = Color.Black;
 
             this.timer = new Timer();
@@ -55,6 +55,9 @@ namespace TankBlocks
                     break;
                 case Keys.A:
                     left = true;
+                    break;
+                case Keys.Space:
+                    tank.Shoot();
                     break;
                 default:
                     break;
