@@ -28,15 +28,13 @@ namespace TankBlocks
             this.timer.Tick += Timer_Tick;
 
             this.DoubleBuffered = true;
-        }
-
-        
+        }        
 
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             if (tank != null)
             {
-                e.Graphics.FillRectangles(new SolidBrush(tank.Color), tank.GetRectangles());
+                e.Graphics.FillRectangles(new SolidBrush(Color.Blue), tank.GetRectangles());
             }
         }
 
