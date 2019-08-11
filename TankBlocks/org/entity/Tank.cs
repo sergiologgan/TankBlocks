@@ -384,6 +384,11 @@ namespace TankBlocks.org.entity
             });
         }
 
+        public Point GetLocation()
+        {
+            return rectTank[1, 0].Location;
+        }
+
         private bool TankExceededLimit(Rectangle[,] rectangles)
         {
             switch (CurrentDirection)
