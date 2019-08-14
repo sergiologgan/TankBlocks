@@ -59,7 +59,8 @@
     <Compile Include="org\entity\Tank.cs" />
     <Compile Include="org\entity\Vehicle.cs" />
     <Compile Include="org\enums\Enums.cs" />
-    <Compile Include="org\structure\Area.cs" />
+    <Compile Include="org\structure\Block.cs" />
+    <Compile Include="org\structure\Map.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
